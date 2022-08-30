@@ -8,6 +8,7 @@ import Main from './Main';
 
 function App() {
   const [notes, setNotes] = useState([]);
+  const [activeNote, setActiveNote] = useState(false);
 
   const onAddNote = () => {
     const newNote = {
@@ -30,6 +31,8 @@ function App() {
         notes={notes} 
         onAddNote={onAddNote} 
         onDeleteNote={onDeleteNote}
+        activeNote={activeNote}
+        setActiveNote={setActiveNote}
       />
       <Main/>
     </div>
