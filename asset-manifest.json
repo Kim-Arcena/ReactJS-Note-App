@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//kim-arcena.github.io/ReactJS-Tutorial/static/css/main.48325e92.css",
-    "main.js": "//kim-arcena.github.io/ReactJS-Tutorial/static/js/main.a4c2eaae.js",
-    "index.html": "//kim-arcena.github.io/ReactJS-Tutorial/index.html",
-    "main.48325e92.css.map": "//kim-arcena.github.io/ReactJS-Tutorial/static/css/main.48325e92.css.map",
-    "main.a4c2eaae.js.map": "//kim-arcena.github.io/ReactJS-Tutorial/static/js/main.a4c2eaae.js.map"
+    "main.css": "/ReactJS-Tutorial/static/css/main.48325e92.css",
+    "main.js": "/ReactJS-Tutorial/static/js/main.a4c2eaae.js",
+    "index.html": "/ReactJS-Tutorial/index.html",
+    "main.48325e92.css.map": "/ReactJS-Tutorial/static/css/main.48325e92.css.map",
+    "main.a4c2eaae.js.map": "/ReactJS-Tutorial/static/js/main.a4c2eaae.js.map"
   },
   "entrypoints": [
     "static/css/main.48325e92.css",
