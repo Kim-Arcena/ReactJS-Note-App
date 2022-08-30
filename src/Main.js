@@ -1,4 +1,4 @@
-function Main(){
+function Main({activeNote}) {
     return (
         <div className="app-main">
             <div className="app-main-note-edit">
@@ -7,9 +7,9 @@ function Main(){
             </div>
 
             <div className="app-main-note-preview">
-                <h1 className="preview-title">Title</h1>
+                <h1 className="preview-title">{activeNote.title}</h1>
                 <div className="markdown-preview">
-                    <p>Preview</p>
+                    <p>{activeNote.body}</p>
                 </div>
             </div>
         </div>
