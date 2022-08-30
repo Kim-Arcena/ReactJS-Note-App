@@ -1,8 +1,8 @@
 function Main(){
     return (
-        <main>
-            <p> Welcome to the main content area </p>
-        </main>
-    )
+        <div>
+        <h1>Main</h1>
+        </div>
+    );
 }
 export default Main;
