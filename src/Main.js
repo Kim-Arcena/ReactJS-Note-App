@@ -2,7 +2,7 @@ function Main(){
     return (
         <div className="app-main">
             <div className="app-main-note-edit">
-                <input type="text" id="title" autofocus/>
+                <input type="text" id="title" autoFocus/>
                 <textarea id="body" placeholder="Put your fucking notes here"></textarea>
             </div>
 
